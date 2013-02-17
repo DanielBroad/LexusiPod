@@ -1,0 +1,15 @@
+# MultiSIM Project File - Name="lexus aux board"
+# MultiSIM Generated Build File, Version 8.00
+# ** DO NOT EDIT **
+
+[Project setting]
+Version Path=\\headland\daniel\lexus aux board\
+Version Path Rel=\\headland\daniel\lexus aux board\
+[Project Files]
+Number Of Files=2
+File0=c:\documents and settings\dbroad\my documents\ewb\lexus aux board 2.ms8
+Rel File0=..\lexus aux board 2.ms8
+File1=c:\documents and settings\dbroad\my documents\ewb\lexus aux board 2.ewprj
+Rel File1=..\lexus aux board 2.ewprj
+Root File=C:\
+Root File Rel=..\..\..\..\..\

@@ -1,0 +1,29 @@
+ULTIBOARD DRILL REPORT
+
+Design: lexus aux board 2_1(lexus aux board 2_1) 
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                               LAMINATION
+lexus aux board 2_1(lexus aux board 2_1) Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL	SIZE		COUNT
+1	0.02362		26
+2	0.03500		126
+3	0.03937		60
+4	0.04667		6
+5	0.03543		8
+6	0.08661		3
+7	0.03917		8
+8	0.04000		9
+9	0.11833		4
+10	0.03333		2
